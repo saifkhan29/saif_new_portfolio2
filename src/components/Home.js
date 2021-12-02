@@ -93,7 +93,7 @@ export default function Home() {
     return (
         <div id='home'>
             <div className="container">
-                <h1 ref={el => {text_1 = el}}>Front and End Developer , UI UX Designer , Programmer</h1>
+                <h1 ref={el => {text_1 = el}}>Front End Developer , UI UX Designer , Programmer</h1>
                 <h2 className='home_main_SM' ref={el => {SMtext_1 = el}} >UI UX Designer <br /> Front End Developer <br /> Programmer</h2>
                 <h3 ref={el => {text_2 = el}}>I love to design and build amazing applications</h3>
                 <img  ref={el => {mainImg = el}} src={Saif} className='saif'/>
