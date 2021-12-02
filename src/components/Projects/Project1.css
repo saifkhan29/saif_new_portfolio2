@@ -1,0 +1,21 @@
+.pButton{
+    padding: 8px 25px;
+    border-radius: 10px;
+    border: none;
+    margin: 10px 0;
+    background-color: #FFC300;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+
+
+.pButton:hover{
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+}
+.pButton:active{
+    transform: scale(0.98);
+}

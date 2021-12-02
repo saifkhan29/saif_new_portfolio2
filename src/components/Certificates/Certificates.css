@@ -1,0 +1,14 @@
+.certificate_container{
+    background: #343A40;
+}
+
+.certificate_container h2{
+    color: #fff;
+    font-size: 32px;
+    padding: 20px 0 0 60px;
+}
+
+.certificate_container h2 span{
+    color: #FFD60A;
+    
+}

@@ -1,0 +1,97 @@
+
+
+.pCard{
+    position: relative;
+    background-color: #58636D;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px ;
+    transition: 0.3s;
+    padding: 30px 20px;
+    cursor: pointer;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+    margin: 50px 50px;
+}
+
+.pCard:hover{
+    height: 300px;
+}
+
+.pImgBox{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform: translateY(-80px);
+    border-radius: 10px;
+    z-index: 100;
+}
+
+.pImgBox img{
+    width: 100%;
+    height: 200px !important;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+    z-index: 100;
+
+}
+
+.pContent{
+    padding: 10px 20px;
+    text-align: center;
+    transform: translateY(-350px);
+    display: none;
+}
+
+.pCard:hover > .pContent {
+    display: block;
+    transform: translateY(-90px);
+    transform: 0.3s ease;
+}
+
+
+
+.pContent h4{
+    color: black !important;
+    font-size: 24px;
+    font-weight:bold;
+}
+
+.p1_container{
+    
+    background-color: #343A40;
+    
+}
+
+.p1_container h2{
+    color: #fff;
+    font-size: 32px;
+    padding: 20px 0 0 60px;
+}
+
+.p1_container h2 span{
+    color: #FFD60A;
+    
+}
+
+.pCardHolder{
+    
+    margin: 100px 0 0 0;
+}
+
+.pCardMain{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.projects_section h2{
+    color: #fff;
+    font-size: 32px;
+    padding: 20px 0 0 60px;
+}
+
+.projects_section h2 span{
+    color: #FFD60A;
+    
+}

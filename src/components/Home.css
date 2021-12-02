@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    background-color: #343A40;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.saif{
+    height: 181px;
+    width: 181px;
+    margin: 40px 0 20px 0;
+    opacity: 0;
+}
+
+h1{
+    margin: 150px 0 0 0 ;
+    font-size: 35px;
+    color: #ffffff;
+    opacity: 0;
+}
+
+h3{
+    margin: 30px 0 25px 0;
+    font-size: 20px;
+    color: #e7e7e7;
+    opacity: 0;
+}
+
+.homeBox1{
+    position: absolute;
+    left: 0;
+    top: 130px;
+    height: 70px;
+    width: 60px;
+}
+
+.homeBox2{
+    position: absolute;
+    right: 0;
+    top: 85px;
+    height: 100px;
+    width: 80px;
+}
+
+.homeBox3{
+    position: absolute;
+    left: 180px;
+    top: 350px;
+    height: 100px;
+    width: 100px;
+}
+
+.homeBox4{
+    position: absolute;
+    right: 0;
+    bottom: 80px;
+    height: 70px;
+    width: 60px;
+}
+
+.icon1{
+    position: absolute;
+    left: 100px;
+    bottom: 60px;
+    height: 20px;
+    width: 20px;
+}
+.icon2{
+    position: absolute;
+    left: 282px;
+    bottom: 243px;
+    height: 20px;
+    width: 20px;
+}
+.icon3{
+    position: absolute;
+    left: 400px;
+    bottom: 110px;
+    height: 20px;
+    width: 20px;
+}
+.icon4{
+    position: absolute;
+    right: 410px;
+    bottom: 212px;
+    height: 20px;
+    width: 20px;
+}
+.icon5{
+    position: absolute;
+    right: 330px;
+    bottom: 104px;
+    height: 20px;
+    width: 20px;
+}
+.icon6{
+    position: absolute;
+    right: 137px;
+    bottom: 282px;
+    height: 20px;
+    width: 20px;
+}
+.icon7{
+    position: absolute;
+    right: 100px;
+    bottom: 113px;
+    height: 20px;
+    width: 20px;
+}
+
+@media (min-width: 600px){
+    .home_main_SM{
+        display: none;
+    }
+}
+
+
+@media (max-width: 450px){
+    h1{
+        display: none;
+    }
+    .container h2{
+        color: #fff;
+        font-size: 28px;
+        line-height: 1.5;
+        text-align: center;
+        margin: 120px 0 0 0;
+        
+    }
+
+    .saif{
+        margin:40px 0 0 0;
+        
+    }
+
+    .container h3{
+        display: none;
+    }
+    .container h4{
+        color: #e7e7e7;
+        margin-bottom: 60px;
+        font-size: 20px;
+        text-align: center;
+        line-height: 1.5;
+       
+    }
+    .homeBox2{
+        position: absolute;
+        right: 0;
+        top: 220px;
+        height: 100px;
+        width: 80px;
+    }
+    .homeBox1{
+        position: absolute;
+        left: -10px;
+        top: 90px;
+        height: 70px;
+        width: 60px;
+        opacity: .8;
+    }
+    .homeBox4{
+        position: absolute;
+        right: 0;
+        bottom: 80px;
+        height: 70px;
+        width: 60px;
+    }
+    .homeBox3{
+        position: absolute;
+        left: -20px;
+        top: 450px;
+        
+        height: 100px;
+        width: 100px;
+    }
+    .icon1{
+        position: absolute;
+        left: 80px;
+        bottom: 260px;
+        height: 20px;
+        width: 20px;
+    }
+    .icon2{
+        position: absolute;
+        left: 43px;
+        bottom: 399px;
+        height: 20px;
+        width: 20px;
+    }
+    .icon3{
+        position: absolute;
+        left: 120px;
+        bottom: 40px;
+        height: 20px;
+        width: 20px;
+    }
+    .icon4{
+        position: absolute;
+        right: 50px;
+        bottom: 300px;
+        height: 20px;
+        width: 20px;
+    }
+    .icon5{
+        position: absolute;
+        right: 350px;
+        bottom: 104px;
+        height: 20px;
+        width: 20px;
+    }
+    .icon6{
+        position: absolute;
+        right: 60px;
+        bottom: 30px;
+        height: 20px;
+        width: 20px;
+    }
+    .icon7{
+        position: absolute;
+        right: 160px;
+        bottom: 70px;
+        height: 20px;
+        width: 20px;
+    }
+    
+    
+}
+
+
+
