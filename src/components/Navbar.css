@@ -131,3 +131,7 @@ nav ul li a:hover{
 .navImg{
     display: none;
 }
+
+.leftNew{
+    left: 0 !important;
+}
