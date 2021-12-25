@@ -9,6 +9,11 @@
     cursor: pointer;
 }
 
+.pButton a{
+    text-decoration: none;
+    color: #fff;
+}
+
 
 
 .pButton:hover{

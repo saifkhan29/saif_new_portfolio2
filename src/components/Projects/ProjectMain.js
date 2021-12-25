@@ -1,5 +1,6 @@
 import React from 'react'
 import Project_1 from './Project_1';
+import Project_2 from './Project_2';
 import './ProjectMain.css'
 
 export default function ProjectMain() {
@@ -21,7 +22,7 @@ export default function ProjectMain() {
             
 
             <Project_1 main1Head={heading[0].main} main1Sub={heading[0].sub} />
-            <Project_1 main1Head={heading[1].main} main1Sub={heading[1].sub}/>
+            <Project_2 main1Head={heading[1].main} main1Sub={heading[1].sub}/>
             
             
         </div>

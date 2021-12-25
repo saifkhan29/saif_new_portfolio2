@@ -13,7 +13,7 @@ export default function Project1(props) {
             </div>
             <div className="pContent">
               <h4>{props.title}</h4>
-              <button className="pButton">View</button>
+              <button className="pButton"><a href={props.url2} target="_blank">View</a></button>
             </div>
           </div>
         </div>

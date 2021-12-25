@@ -73,6 +73,11 @@
     font-weight: bold;
 }
 
+.yt_lower_card button a{
+    text-decoration: none;
+    color: #fff;
+}
+
 .yt_lower_card button:active{
     transform: scale(0.98);
     

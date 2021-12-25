@@ -11,44 +11,44 @@ export default function Youtube() {
                         {/* start of card 1 */}
                         <div className="yt_main_card">
                             <div className="yt_upper_card">
-                                <img src="https://images.unsplash.com/photo-1593642532973-d31b6557fa68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80" alt="" />
+                                <img src="https://user-images.githubusercontent.com/79800224/147360380-ad55947b-6224-43c5-be3c-30888e2a6707.png" alt="" />
                             </div>
                             <div className="yt_lower_card">
-                                <h4>Name</h4>
-                                <button>View</button>
+                                <h4>Jobs Website</h4>
+                                <button><a href="https://www.youtube.com/watch?v=JPsgHDd3nfs&t=85s" target="_blank">View</a></button>
                             </div>
                         </div>
                         {/* end of card 1 */}
                         {/* start of card 1 */}
                         <div className="yt_main_card">
                             <div className="yt_upper_card">
-                                <img src="https://images.unsplash.com/photo-1593642532973-d31b6557fa68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80" alt="" />
+                                <img src="https://user-images.githubusercontent.com/79800224/147360392-a66e479e-8422-4c22-a331-5aaa52ed9353.png" alt="" />
                             </div>
                             <div className="yt_lower_card">
-                                <h4>Name</h4>
-                                <button>View</button>
+                                <h4>Sign Up Page</h4>
+                                <button><a href="https://www.youtube.com/watch?v=FcNNmYWQG64" target="_blank">View</a></button>
                             </div>
                         </div>
                         {/* end of card 1 */}
                         {/* start of card 1 */}
                         <div className="yt_main_card">
                             <div className="yt_upper_card">
-                                <img src="https://images.unsplash.com/photo-1593642532973-d31b6557fa68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80" alt="" />
+                                <img src="https://user-images.githubusercontent.com/79800224/147360393-c9dbcfb5-789f-4673-b0ad-97803a479d0c.png" alt="" />
                             </div>
                             <div className="yt_lower_card">
-                                <h4>Name</h4>
-                                <button>View</button>
+                                <h4>Food App Project</h4>
+                                <button><a href="https://www.youtube.com/watch?v=v_kfDTrmN8s&t=2s" target="_blank">View</a></button>
                             </div>
                         </div>
                         {/* end of card 1 */}
                         {/* start of card 1 */}
                         <div className="yt_main_card">
                             <div className="yt_upper_card">
-                                <img src="https://images.unsplash.com/photo-1593642532973-d31b6557fa68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80" alt="" />
+                                <img src="https://user-images.githubusercontent.com/79800224/147360383-16f91990-7bef-4bf7-827a-029f7bf72e89.png" alt="" />
                             </div>
                             <div className="yt_lower_card">
-                                <h4>Name</h4>
-                                <button>View</button>
+                                <h4>News App Project</h4>
+                                <button><a href="https://www.youtube.com/watch?v=emyvhyxQxDo&t=1s" target="_blank">View</a></button>
                             </div>
                         </div>
                         {/* end of card 1 */}
